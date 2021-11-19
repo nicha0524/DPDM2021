@@ -39,3 +39,25 @@ Data Processing and Data Mining 2021
              งานxxx
              งานyyy
              return output
+ #### 2. การนำเสนอแผนภาพข้อมูล (Data Visualization) [code](https://colab.research.google.com/github/nicha0524/DPDM2021/blob/main/Data102_(Chapter2).ipynb#scrollTo=pLC82lzuy38v)
+      - Statical Descriptive
+      - Data Visualization
+          packagematplotlib
+          Boxplot
+          Scatter plot
+          Plot
+          Barchart
+          Histogram
+  #### 3. Distance Matrix [code](https://colab.research.google.com/github/nicha0524/DPDM2021/blob/main/Data103_(chapter2_distance).ipynb)[lecture](https://github.com/nicha0524/DPDM2021/blob/main/Measuring-Data-Similarity-and-Dissimilarity.pdf)
+      - transport matrix (กลับแถวเป็นหลัก)
+      - matrix multiplication (คูณ matrix)
+      - Useful numpy functions
+         summation (∑)
+         average ( μ )
+      - คำสั่งสร้าง matrix เริ่มต้น zeros, ones
+      - คำสั่งสร้าง Matrix เริ่มต้น random
+      - Arrray Slicing
+      - Distance Matrix
+      
+      
+           
