@@ -48,7 +48,7 @@ Data Processing and Data Mining 2021
           Plot
           Barchart
           Histogram
-  #### 3. Distance Matrix [code](https://colab.research.google.com/github/nicha0524/DPDM2021/blob/main/Data103_(chapter2_distance).ipynb)[lecture](https://github.com/nicha0524/DPDM2021/blob/main/Measuring-Data-Similarity-and-Dissimilarity.pdf)
+  #### 3. Distance Matrix [code](https://colab.research.google.com/github/nicha0524/DPDM2021/blob/main/Data103_(chapter2_distance).ipynb) [lecture](https://github.com/nicha0524/DPDM2021/blob/main/Measuring-Data-Similarity-and-Dissimilarity.pdf)
       - transport matrix (กลับแถวเป็นหลัก)
       - matrix multiplication (คูณ matrix)
       - Useful numpy functions
@@ -58,6 +58,32 @@ Data Processing and Data Mining 2021
       - คำสั่งสร้าง Matrix เริ่มต้น random
       - Arrray Slicing
       - Distance Matrix
+      
+   
+## บทที่ 3 Data Preprocessing [code](https://github.com/nicha0524/DPDM2021/blob/main/Data_Preprocessing_(Chapter_3).ipynb)  [lecture](https://github.com/nicha0524/DPDM2021/blob/main/Chapter103_Data%20Preprocessing.pdf)
+      - การชี้ข้อมูลในตาราง
+      - Descriptive Statistics of Data
+      - Missing Value
+         Null
+         NaN = Not a Number
+         NA = Not available
+      - การทำงานกับ Datetime-Timestamp
+      -การต่อตารางแนวแกน X 
+      - [PD] loop
+      - [PD] Group by
+      - [PD] sample record
+      - [PD] save file
+      - [PD] การสร้างตาราง Pandas
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
       
       
            
