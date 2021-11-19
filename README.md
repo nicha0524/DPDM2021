@@ -75,8 +75,38 @@ Data Processing and Data Mining 2021
       - [PD] save file
       - [PD] การสร้างตาราง Pandas
       
+   ## บทที่ 4 Frequent Patterns (Association_Rules) [code](https://github.com/nicha0524/DPDM2021/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
+      - Group by
+      - packages apyori
       
-      
+   ## บทที่ 5 Classification  
+       ประกอบด้วย 3 เรื่อง คือ
+   ### 1.Decision_Tree [code](https://github.com/nicha0524/DPDM2021/blob/main/Classification_(Decision_Tree).ipynb) [lecture](https://github.com/nicha0524/DPDM2021/blob/main/Classification%20(Decision%20Tree).pdf)
+          - Load Data
+          - Train Model
+          - Evaluation
+          - advance tree
+          - 3 Machine Learning Training Concepts
+
+   ### 2.kNN_evaluation [code](https://github.com/nicha0524/DPDM2021/blob/main/classification_(kNN_evaluation).ipynb)
+          - Load data
+          - Split data
+          - KNN
+          - Evaluation
+   ### 3.clustering [code](https://github.com/nicha0524/DPDM2021/blob/main/Chap8_clustering.ipynb)
+          - Gennerate data
+          - Explore data
+          - Clustering
+          
+ ## Project 
+   ### Midterm [code](https://github.com/nicha0524/DPDM2021/blob/main/Project.ipynb)
+       - ข้อมูลตัวอย่างการขายจักรยายนต์
+       - โจทย์คำถามข้อ 1: ทวีปไหน เมืองอะไร ที่มีการสั่งชื้อจักยานมากที่สุด และจักรยานชนิดใดถูกสั่งซื้อเยอะที่สุดเรียงจากมากไปน้อย
+       - โจทย์คำถามข้อ 2: visualization แสดงยอดขายของยอดการขายจักรยานแต่ละประเภท 
+   ### Final: คาดการณ์การซื้อตามชนิดจักรยานต์โดยวิเคราะจากทวีปคู่ค้าและวันในสัปดาห์ [code](https://github.com/nicha0524/DPDM2021/blob/main/Project_FINAL.ipynb)
+       - Decision_Tree
+       - Knn
+   ### Power Point
       
       
       
