@@ -106,7 +106,7 @@ Data Processing and Data Mining 2021
    ### Final: คาดการณ์การซื้อตามชนิดจักรยานต์โดยวิเคราะจากทวีปคู่ค้าและวันในสัปดาห์ [code](https://github.com/nicha0524/DPDM2021/blob/main/Project_FINAL.ipynb)
        - Decision_Tree
        - Knn
-   ### Power Point
+   ### Power Point [PPT](https://github.com/nicha0524/DPDM2021/blob/main/project_FINAL.pptx)
       
       
       
